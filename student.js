@@ -153,6 +153,15 @@ class StudentsCollection {
         this.#arrayEstudiants = arrayEstudiants;
     }
 
+
+    FuncioTest(variableTest){
+        return variableTest;
+    }
+
+    static FuncioTest2(variable){
+        return variableTest;
+    }
+
 }
 
 
